@@ -4,10 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&color=85C07C&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Majedah+Matar!;" />
 </h1>
 <h3 align="left">A passionate Full-Stack developer from Saudi Arabia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" >
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majowl77&label=Profile%20views&color=0e75b6&style=flat" alt="majowl77" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=majowl77&label=Profile%20views&lableColor=85C07C&color=85C07C&style=for-the-badge" alt="majowl77" /> </p>
 
 - 🔭 I’m currently working on **my full-stack project as an Integrify trainee**
 
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majowl77&show_icons=true&locale=en" alt="majowl77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majowl77&" alt="majowl77" /></p>
+
