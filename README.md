@@ -1,6 +1,8 @@
 [![MasterHead](https://drive.google.com/uc?id=1XDA8Onw4viEy3vmce4GBoovte0yBk80H)](https://drive.google.com/file/d/1XDA8Onw4viEy3vmce4GBoovte0yBk80H/view?usp=sharing)
 
-<h1 align="left">Hi 👋, I'm Majedah Matar</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&color=85C07C&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Majedah+Matar!;" />
+</h1>
 <h3 align="left">A passionate Full-Stack developer from Saudi Arabia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif">
 
