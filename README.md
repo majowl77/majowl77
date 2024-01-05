@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majowl77&label=Profile%20views&lableColor=85C07C&color=85C07C&style=for-the-badge" alt="majowl77" /> </p>
 
-- 🔭 I’m currently working on **my full-stack project as an Integrify trainee**
+- 🔭 I’m currently working on **my Portfolio **
 
 - 🌱 I’m currently learning **Node.js , Express.js , MongoDB**
 
