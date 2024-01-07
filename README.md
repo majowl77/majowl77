@@ -33,6 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majowl77&" alt="majowl77" /></p>
 
-<p> <a href="https://app.daily.dev/majedahmatar"><img src="https://api.daily.dev/devcards/48be5c886162473e8c70f76e888fbc58.png?r=u5j" width="400" alt="Majedah Matar's Dev Card"/></a>
+<p> <a href="https://app.daily.dev/majedahmatar"><img src="https://api.daily.dev/devcards/48be5c886162473e8c70f76e888fbc58.png?r=u5j" width="310" alt="Majedah Matar's Dev Card"/></a>
 </p>
 
